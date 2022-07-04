@@ -26,5 +26,5 @@ No data augmentation in terms of random rotation or flipping is applied.
 ## Image Segementation for Nuclei
 ### Description (kaggle.com): 
 Identify a range of nuclei across varied conditions. By automating nucleus detection, you could help unlock cures faster—from rare disorders to the common cold. 
-#### Data source: 
+#### Data source: https://www.kaggle.com/competitions/data-science-bowl-2018/overview
 
