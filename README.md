@@ -23,6 +23,9 @@ High-resolution images have variance in terms of surface finish and illumination
 No data augmentation in terms of random rotation or flipping is applied. 
 #### Data source: https://data.mendeley.com/datasets/5y9wdsg2zt/2
 
+### IDE and Framework:
+The project is completed with Spyder as the main IDE. The main frameworks used in this project are Numpy, Matplotlib and Tensorflow Keras.
+
 ## Image Segementation for Nuclei
 ### Description (kaggle.com): 
 Identify a range of nuclei across varied conditions. By automating nucleus detection, you could help unlock cures faster—from rare disorders to the common cold. 
